@@ -795,6 +795,32 @@ DODLA,Sep 2025,Net Profit,66
 DODLA,Dec 2025,Net Profit,69
 DODLA,Mar 2026,Net Profit,70
 DODLA,Jun 2026,Net Profit,41
+DSSL,Jun 2023,Sales,296
+DSSL,Sep 2023,Sales,220
+DSSL,Dec 2023,Sales,227
+DSSL,Mar 2024,Sales,282
+DSSL,Jun 2024,Sales,321
+DSSL,Sep 2024,Sales,306
+DSSL,Dec 2024,Sales,311
+DSSL,Mar 2025,Sales,329
+DSSL,Jun 2025,Sales,329
+DSSL,Sep 2025,Sales,352
+DSSL,Dec 2025,Sales,341
+DSSL,Mar 2026,Sales,402
+DSSL,Jun 2026,Sales,314
+DSSL,Jun 2023,Net Profit,14
+DSSL,Sep 2023,Net Profit,13
+DSSL,Dec 2023,Net Profit,13
+DSSL,Mar 2024,Net Profit,14
+DSSL,Jun 2024,Net Profit,18
+DSSL,Sep 2024,Net Profit,18
+DSSL,Dec 2024,Net Profit,18
+DSSL,Mar 2025,Net Profit,18
+DSSL,Jun 2025,Net Profit,20
+DSSL,Sep 2025,Net Profit,23
+DSSL,Dec 2025,Net Profit,24
+DSSL,Mar 2026,Net Profit,19
+DSSL,Jun 2026,Net Profit,20
 EFCIL,Jun 2023,Sales,56
 EFCIL,Sep 2023,Sales,98
 EFCIL,Dec 2023,Sales,172
@@ -2263,6 +2289,32 @@ NAVNETEDUL,Sep 2025,Net Profit,-15
 NAVNETEDUL,Dec 2025,Net Profit,188
 NAVNETEDUL,Mar 2026,Net Profit,39
 NAVNETEDUL,Jun 2026,Net Profit,141
+NELCO,Jun 2023,Sales,78.80
+NELCO,Sep 2023,Sales,76.65
+NELCO,Dec 2023,Sales,83.24
+NELCO,Mar 2024,Sales,81.61
+NELCO,Jun 2024,Sales,74.08
+NELCO,Sep 2024,Sales,82.55
+NELCO,Dec 2024,Sales,80.72
+NELCO,Mar 2025,Sales,67.52
+NELCO,Jun 2025,Sales,74.79
+NELCO,Sep 2025,Sales,74.33
+NELCO,Dec 2025,Sales,78.30
+NELCO,Mar 2026,Sales,79.18
+NELCO,Jun 2026,Sales,80.03
+NELCO,Jun 2023,Net Profit,5.73
+NELCO,Sep 2023,Net Profit,5.69
+NELCO,Dec 2023,Net Profit,6.15
+NELCO,Mar 2024,Net Profit,6.10
+NELCO,Jun 2024,Net Profit,4.56
+NELCO,Sep 2024,Net Profit,4.10
+NELCO,Dec 2024,Net Profit,4.95
+NELCO,Mar 2025,Net Profit,-4.08
+NELCO,Jun 2025,Net Profit,1.80
+NELCO,Sep 2025,Net Profit,1.62
+NELCO,Dec 2025,Net Profit,-1.19
+NELCO,Mar 2026,Net Profit,1.09
+NELCO,Jun 2026,Net Profit,2.34
 NIITMTS,Jun 2023,Sales,382
 NIITMTS,Sep 2023,Sales,382
 NIITMTS,Dec 2023,Sales,391
