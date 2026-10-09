@@ -1,92 +1,92 @@
 symbol,name,event_types,mcap,SUE,conviction,reasons,analysed,tier
-RATEGAIN,RateGain Travel Technologies Ltd,DEBT_REDUCTION,10003.8,2.29,4.0,"event DEBT_REDUCTION +2, high SUE +2.0 (risk-on)",False,MODERATE
+GOLDIAM,Goldiam International Ltd,ORDER_WIN,5010.54,3.4,7.0,"event ORDER_WIN +3, high SUE +2.0 (risk-on), filing STRONG +2",True,STRONG
+WABAG,VA Tech Wabag Ltd,ORDER_WIN,13394.44,2.71,7.0,"event ORDER_WIN +3, high SUE +2.0 (risk-on), filing STRONG +2",True,STRONG
+JKIL,J. Kumar Infraprojects Ltd,ORDER_WIN,3695.5,-0.46,5.0,"event ORDER_WIN +3, filing STRONG +2",True,MODERATE
+POWERMECH,Power Mech Projects Ltd,ORDER_WIN,7755.16,2.17,5.0,"event ORDER_WIN +3, high SUE +2.0 (risk-on)",False,MODERATE
+PARAS,Paras Defence and Space Technologies Ltd,ORDER_WIN,11838.28,1.48,4.5,"event ORDER_WIN +3, high SUE +2.0 (risk-on), thin delivery -0.5",False,MODERATE
+PENIND,Pennar Industries Ltd,CAPITAL_RAISE,2454.11,2.82,4.0,"event CAPITAL_RAISE +2, high SUE +2.0 (risk-on)",False,MODERATE
+MANORAMA,Manorama Industries Ltd,CAPITAL_RAISE,13156.6,2.6,4.0,"event CAPITAL_RAISE +2, high SUE +2.0 (risk-on)",False,MODERATE
 SOBHA,Sobha Ltd,CAPITAL_RAISE,13249.44,1.68,4.0,"event CAPITAL_RAISE +2, high SUE +2.0 (risk-on)",False,MODERATE
+RATEGAIN,RateGain Travel Technologies Ltd,DEBT_REDUCTION,10003.8,2.29,4.0,"event DEBT_REDUCTION +2, high SUE +2.0 (risk-on)",False,MODERATE
+SAMBHV,Sambhv Steel Tubes Ltd,CAPITAL_RAISE,3867.56,2.57,4.0,"event CAPITAL_RAISE +2, high SUE +2.0 (risk-on)",False,MODERATE
 KOLTEPATIL,Kolte-Patil Developers Ltd,CAPITAL_RAISE,3861.57,1.91,4.0,"event CAPITAL_RAISE +2, high SUE +2.0 (risk-on)",False,MODERATE
-LXCHEM,Laxmi Organic Industries Ltd,CAPITAL_RAISE,5011.08,2.22,4.0,"event CAPITAL_RAISE +2, high SUE +2.0 (risk-on)",False,MODERATE
 AURUM,Aurum PropTech Ltd,CAPITAL_RAISE,1710.6,2.54,4.0,"event CAPITAL_RAISE +2, high SUE +2.0 (risk-on)",False,MODERATE
-HCG,HealthCare Global Enterprises Ltd,CAPITAL_RAISE,10541.48,1.03,3.5,"event CAPITAL_RAISE +2, AR CLEAN +1, filing MODERATE +0",True,MODERATE
+SENORES,Senores Pharmaceuticals Ltd,CAPITAL_RAISE,6778.17,1.46,4.0,"event CAPITAL_RAISE +2, high SUE +2.0 (risk-on)",False,MODERATE
+LXCHEM,Laxmi Organic Industries Ltd,CAPITAL_RAISE,5011.08,2.22,4.0,"event CAPITAL_RAISE +2, high SUE +2.0 (risk-on)",False,MODERATE
 DIAMONDYD,Prataap Snacks Ltd,ACQUISITION,2698.58,1.84,3.5,"event ACQUISITION -2, high SUE +2.0 (risk-on), AR CLEAN +1, filing STRONG +2",True,MODERATE
+HCG,HealthCare Global Enterprises Ltd,CAPITAL_RAISE,10541.48,1.03,3.5,"event CAPITAL_RAISE +2, AR CLEAN +1, filing MODERATE +0",True,MODERATE
 KIRLFER,Kirloskar Ferrous Industries Ltd,ORDER_WIN,7775.27,-1.8,3.0,"event ORDER_WIN +3, negative surprise -1.0, AR CLEAN +1",True,MODERATE
+QPOWER,Quality Power Electrical Equipments Ltd,ORDER_WIN,11742.07,0.0,3.0,event ORDER_WIN +3,False,MODERATE
+INDIANHUME,Indian Hume Pipe Company Ltd,ORDER_WIN,2023.24,,3.0,event ORDER_WIN +3,False,MODERATE
+MARSONS,Marsons Ltd,ORDER_WIN,2261.39,-0.45,3.0,event ORDER_WIN +3,False,MODERATE
 ORCHPHARMA,Orchid Pharma Ltd,ORDER_WIN,5170.56,0.43,3.0,event ORDER_WIN +3,False,MODERATE
-WAAREERTL,Waaree Renewable Technologies Ltd,ORDER_WIN,8733.93,1.15,3.0,event ORDER_WIN +3,False,MODERATE
-FLAIR,Flair Writing Industries Ltd,ORDER_WIN,2520.74,-0.02,3.0,event ORDER_WIN +3,False,MODERATE
-SONATSOFTW,Sonata Software Ltd,ORDER_WIN+RESTRUCTURING,7445.77,-0.02,3.0,event ORDER_WIN +3,False,MODERATE
 NIVABUPA,Niva Bupa Health Insurance Company Ltd,ORDER_WIN,14767.56,,3.0,event ORDER_WIN +3,False,MODERATE
 MANINDS,Man Industries (India) Ltd,ORDER_WIN,5928.76,1.33,3.0,event ORDER_WIN +3,False,MODERATE
+SONATSOFTW,Sonata Software Ltd,ORDER_WIN+RESTRUCTURING,7445.77,-0.02,3.0,event ORDER_WIN +3,False,MODERATE
+ASHIANA,Ashiana Housing Ltd,ORDER_WIN,3508.32,0.01,3.0,event ORDER_WIN +3,False,MODERATE
+VOGL,Vedanta Oil and Gas Ltd,ORDER_WIN,14238.46,,3.0,event ORDER_WIN +3,False,MODERATE
+WAAREERTL,Waaree Renewable Technologies Ltd,ORDER_WIN,8733.93,1.15,3.0,event ORDER_WIN +3,False,MODERATE
+IXIGO,Le Travenues Technology Ltd,ORDER_WIN,7344.71,0.81,3.0,event ORDER_WIN +3,False,MODERATE
 DBL,Dilip Buildcon Ltd,ORDER_WIN,6445.81,-0.46,3.0,event ORDER_WIN +3,False,MODERATE
 DSSL,Dynacons Systems & Solutions Ltd,ORDER_WIN,1314.72,0.04,3.0,event ORDER_WIN +3,False,MODERATE
-ASHOKA,Ashoka Buildcon Ltd,ORDER_WIN,3184.24,-0.16,3.0,event ORDER_WIN +3,False,MODERATE
-QPOWER,Quality Power Electrical Equipments Ltd,ORDER_WIN,11742.07,0.0,3.0,event ORDER_WIN +3,False,MODERATE
-ASHIANA,Ashiana Housing Ltd,ORDER_WIN,3508.32,0.01,3.0,event ORDER_WIN +3,False,MODERATE
-SRM,SRM Contractors Ltd,ORDER_WIN,1038.42,0.68,3.0,event ORDER_WIN +3,False,MODERATE
-MARSONS,Marsons Ltd,ORDER_WIN,2261.39,-0.45,3.0,event ORDER_WIN +3,False,MODERATE
-INDIANHUME,Indian Hume Pipe Company Ltd,ORDER_WIN,2023.24,,3.0,event ORDER_WIN +3,False,MODERATE
-BBOX,Black Box Ltd,ORDER_WIN,13556.15,0.7,3.0,event ORDER_WIN +3,False,MODERATE
-KIRLOSBROS,Kirloskar Brothers Ltd,ORDER_WIN,14693.03,-0.0,3.0,event ORDER_WIN +3,False,MODERATE
-SURYAROSNI,Surya Roshni Ltd,ORDER_WIN,4769.49,0.72,3.0,event ORDER_WIN +3,False,MODERATE
-GOLDIAM,Goldiam International Ltd,ORDER_WIN,5010.54,3.4,3.0,"event ORDER_WIN +3, high SUE +2.0 (risk-on), AR FLAGGED -4, filing STRONG +2",True,MODERATE
-SAIPARENT,Sai Parenterals Ltd,ORDER_WIN,2324.93,,3.0,event ORDER_WIN +3,False,MODERATE
-AVANTEL,Avantel Ltd,ORDER_WIN,4186.81,0.24,3.0,event ORDER_WIN +3,False,MODERATE
-IXIGO,Le Travenues Technology Ltd,ORDER_WIN,7344.71,0.81,3.0,event ORDER_WIN +3,False,MODERATE
-VOGL,Vedanta Oil and Gas Ltd,ORDER_WIN,14238.46,,3.0,event ORDER_WIN +3,False,MODERATE
-WABAG,VA Tech Wabag Ltd,ORDER_WIN,13394.44,2.71,3.0,"event ORDER_WIN +3, high SUE +2.0 (risk-on), AR FLAGGED -4, filing STRONG +2",True,MODERATE
 VINCOFE,Vintage Coffee And Beverages Ltd,ORDER_WIN,2584.8,1.44,3.0,event ORDER_WIN +3,False,MODERATE
-LEMONTREE,Lemon Tree Hotels Ltd,ORDER_WIN,8418.92,0.82,3.0,"event ORDER_WIN +3, AR CLEAN +1, filing INTENT/WEAK -1",True,MODERATE
-GKENERGY,GK Energy Ltd,ORDER_WIN,2587.34,,3.0,event ORDER_WIN +3,False,MODERATE
-RITES,RITES Ltd,ORDER_WIN,10171.98,0.37,3.0,event ORDER_WIN +3,False,MODERATE
-ATLANTAELE,Atlanta Electricals Ltd,ORDER_WIN,14564.22,0.17,3.0,"event ORDER_WIN +3, AR CLEAN +1, filing INTENT/WEAK -1",True,MODERATE
 DEEPINDS,Deep Industries Ltd,ORDER_WIN,5094.08,0.24,3.0,event ORDER_WIN +3,False,MODERATE
+KIRLOSBROS,Kirloskar Brothers Ltd,ORDER_WIN,14693.03,-0.0,3.0,event ORDER_WIN +3,False,MODERATE
+ASHOKA,Ashoka Buildcon Ltd,ORDER_WIN,3184.24,-0.16,3.0,event ORDER_WIN +3,False,MODERATE
+LEMONTREE,Lemon Tree Hotels Ltd,ORDER_WIN,8418.92,0.82,3.0,"event ORDER_WIN +3, AR CLEAN +1, filing INTENT/WEAK -1",True,MODERATE
+FLAIR,Flair Writing Industries Ltd,ORDER_WIN,2520.74,-0.02,3.0,event ORDER_WIN +3,False,MODERATE
 PNCINFRA,PNC Infratech Ltd,ORDER_WIN,4595.9,-0.5,3.0,event ORDER_WIN +3,False,MODERATE
+AVANTEL,Avantel Ltd,ORDER_WIN,4186.81,0.24,3.0,event ORDER_WIN +3,False,MODERATE
+RITES,RITES Ltd,ORDER_WIN,10171.98,0.37,3.0,event ORDER_WIN +3,False,MODERATE
+SAIPARENT,Sai Parenterals Ltd,ORDER_WIN,2324.93,,3.0,event ORDER_WIN +3,False,MODERATE
+ATLANTAELE,Atlanta Electricals Ltd,ORDER_WIN,14564.22,0.17,3.0,"event ORDER_WIN +3, AR CLEAN +1, filing INTENT/WEAK -1",True,MODERATE
+GKENERGY,GK Energy Ltd,ORDER_WIN,2587.34,,3.0,event ORDER_WIN +3,False,MODERATE
+SRM,SRM Contractors Ltd,ORDER_WIN,1038.42,0.68,3.0,event ORDER_WIN +3,False,MODERATE
+BBOX,Black Box Ltd,ORDER_WIN,13556.15,0.7,3.0,event ORDER_WIN +3,False,MODERATE
+SURYAROSNI,Surya Roshni Ltd,ORDER_WIN,4769.49,0.72,3.0,event ORDER_WIN +3,False,MODERATE
 ARFIN,Arfin India Ltd,ORDER_WIN,1533.69,0.95,2.5,"event ORDER_WIN +3, thin delivery -0.5",False,WATCH
-PROTEAN,Protean eGov Technologies Ltd,ORDER_WIN,2007.5,-2.04,2.0,"event ORDER_WIN +3, negative surprise -1.0",False,WATCH
-WENDT,Wendt (India) Ltd,ACQUISITION+CAPITAL_RAISE,1658.0,0.63,2.0,event CAPITAL_RAISE +2,False,WATCH
-GENESYS,Genesys International Corporation Ltd,CAPITAL_RAISE,1858.84,-0.17,2.0,event CAPITAL_RAISE +2,False,WATCH
-CCAVENUE,AvenuesAI Ltd,CAPITAL_RAISE,5325.96,0.83,2.0,event CAPITAL_RAISE +2,False,WATCH
-ONWARDTEC,Onward Technologies Ltd,ORDER_WIN,617.82,-0.28,2.0,"event ORDER_WIN +3, micro-cap -1.0",False,WATCH
-ZUARI,Zuari Agro Chemicals Ltd,ORDER_WIN,951.1,0.08,2.0,"event ORDER_WIN +3, micro-cap -1.0",False,WATCH
 SIRCA,Sirca Paints India Ltd,CAPITAL_RAISE,2452.38,0.57,2.0,event CAPITAL_RAISE +2,False,WATCH
-HITECH,Hi-Tech Pipes Ltd,CAPITAL_RAISE,1543.64,-0.19,2.0,event CAPITAL_RAISE +2,False,WATCH
+ZUARI,Zuari Agro Chemicals Ltd,ORDER_WIN,951.1,0.08,2.0,"event ORDER_WIN +3, micro-cap -1.0",False,WATCH
 TRANSRAILL,Transrail Lighting Ltd,CAPITAL_RAISE,5741.46,0.03,2.0,event CAPITAL_RAISE +2,False,WATCH
-RANEHOLDIN,Rane Holdings Ltd,CAPITAL_RAISE,2391.53,-0.17,2.0,event CAPITAL_RAISE +2,False,WATCH
+WENDT,Wendt (India) Ltd,ACQUISITION+CAPITAL_RAISE,1658.0,0.63,2.0,event CAPITAL_RAISE +2,False,WATCH
+HGINFRA,H.G. Infra Engineering Ltd,ORDER_WIN,3111.59,-2.99,2.0,"event ORDER_WIN +3, negative surprise -1.0",False,WATCH
+CEATLTD,Ceat Ltd,ORDER_WIN,13310.1,-1.29,2.0,"event ORDER_WIN +3, negative surprise -1.0",False,WATCH
+ONWARDTEC,Onward Technologies Ltd,ORDER_WIN,617.82,-0.28,2.0,"event ORDER_WIN +3, micro-cap -1.0",False,WATCH
+PROTEAN,Protean eGov Technologies Ltd,ORDER_WIN,2007.5,-2.04,2.0,"event ORDER_WIN +3, negative surprise -1.0",False,WATCH
 ARSSBL,Anand Rathi Share And Stock Brokers Ltd,ORDER_WIN,3202.51,-0.64,2.0,"event ORDER_WIN +3, negative surprise -1.0",False,WATCH
 RKFORGE,Ramkrishna Forgings Ltd,CAPITAL_RAISE,12807.57,0.38,2.0,event CAPITAL_RAISE +2,False,WATCH
-CEINSYS,Ceinsys Tech Ltd,ORDER_WIN,1453.7,-0.73,2.0,"event ORDER_WIN +3, negative surprise -1.0",False,WATCH
-HGINFRA,H.G. Infra Engineering Ltd,ORDER_WIN,3111.59,-2.99,2.0,"event ORDER_WIN +3, negative surprise -1.0",False,WATCH
-HARDWYN,Hardwyn India Ltd,ORDER_WIN,623.63,-0.44,2.0,"event ORDER_WIN +3, micro-cap -1.0",False,WATCH
-PRECWIRE,Precision Wires India Ltd,CAPITAL_RAISE,8638.59,,2.0,event CAPITAL_RAISE +2,False,WATCH
-SHANTIGOLD,Shanti Gold International Ltd,CAPITAL_RAISE,2033.67,,2.0,event CAPITAL_RAISE +2,False,WATCH
-CEATLTD,Ceat Ltd,ORDER_WIN,13310.1,-1.29,2.0,"event ORDER_WIN +3, negative surprise -1.0",False,WATCH
 JAYKAY,Jaykay Enterprises Ltd,CAPITAL_RAISE,2402.86,-0.25,2.0,event CAPITAL_RAISE +2,False,WATCH
+HARDWYN,Hardwyn India Ltd,ORDER_WIN,623.63,-0.44,2.0,"event ORDER_WIN +3, micro-cap -1.0",False,WATCH
+CCAVENUE,AvenuesAI Ltd,CAPITAL_RAISE,5325.96,0.83,2.0,event CAPITAL_RAISE +2,False,WATCH
+CEINSYS,Ceinsys Tech Ltd,ORDER_WIN,1453.7,-0.73,2.0,"event ORDER_WIN +3, negative surprise -1.0",False,WATCH
+GENESYS,Genesys International Corporation Ltd,CAPITAL_RAISE,1858.84,-0.17,2.0,event CAPITAL_RAISE +2,False,WATCH
+PRECWIRE,Precision Wires India Ltd,CAPITAL_RAISE,8638.59,,2.0,event CAPITAL_RAISE +2,False,WATCH
+HITECH,Hi-Tech Pipes Ltd,CAPITAL_RAISE,1543.64,-0.19,2.0,event CAPITAL_RAISE +2,False,WATCH
+SHANTIGOLD,Shanti Gold International Ltd,CAPITAL_RAISE,2033.67,,2.0,event CAPITAL_RAISE +2,False,WATCH
+RANEHOLDIN,Rane Holdings Ltd,CAPITAL_RAISE,2391.53,-0.17,2.0,event CAPITAL_RAISE +2,False,WATCH
 ZEEL,Zee Entertainment Enterprises Ltd,CAPITAL_RAISE,8198.99,-0.46,1.5,"event CAPITAL_RAISE +2, thin delivery -0.5",False,WATCH
-HARIOMPIPE,Hariom Pipe Industries Ltd,CAPITAL_RAISE,1138.2,-0.95,1.0,"event CAPITAL_RAISE +2, negative surprise -1.0",False,WATCH
-JKIL,J. Kumar Infraprojects Ltd,ORDER_WIN,3695.5,-0.46,1.0,"event ORDER_WIN +3, AR FLAGGED -4, filing STRONG +2",True,WATCH
-ROHLTD,Royal Orchid Hotels Ltd,ORDER_WIN,833.73,-1.22,1.0,"event ORDER_WIN +3, negative surprise -1.0, micro-cap -1.0",False,WATCH
+KRSNAA,Krsnaa Diagnostics Ltd,CAPITAL_RAISE,1806.67,-0.53,1.0,"event CAPITAL_RAISE +2, negative surprise -1.0",False,WATCH
 RAYMOND,Raymond Ltd,CAPITAL_RAISE,5368.7,-1.77,1.0,"event CAPITAL_RAISE +2, negative surprise -1.0",False,WATCH
 TEAMLEASE,TeamLease Services Ltd,ORDER_WIN,1938.75,1.3,1.0,"event ORDER_WIN +3, AR CLEAN +1, filing FLAGGED -3",True,WATCH
-SOLEX,Solex Energy Ltd,ORDER_WIN,781.13,-0.61,1.0,"event ORDER_WIN +3, negative surprise -1.0, micro-cap -1.0",False,WATCH
-KRSNAA,Krsnaa Diagnostics Ltd,CAPITAL_RAISE,1806.67,-0.53,1.0,"event CAPITAL_RAISE +2, negative surprise -1.0",False,WATCH
-POWERMECH,Power Mech Projects Ltd,ORDER_WIN,7755.16,2.17,1.0,"event ORDER_WIN +3, high SUE +2.0 (risk-on), AR FLAGGED -4",True,WATCH
-SILVERTUC,Silver Touch Technologies Ltd,ORDER_WIN,2063.07,2.86,1.0,"event ORDER_WIN +3, high SUE +2.0 (risk-on), AR FLAGGED -4",True,WATCH
+ROHLTD,Royal Orchid Hotels Ltd,ORDER_WIN,833.73,-1.22,1.0,"event ORDER_WIN +3, negative surprise -1.0, micro-cap -1.0",False,WATCH
 STANLEY,Stanley Lifestyles Ltd,ORDER_WIN,789.19,-1.46,1.0,"event ORDER_WIN +3, negative surprise -1.0, micro-cap -1.0",False,WATCH
-PARAS,Paras Defence and Space Technologies Ltd,ORDER_WIN,11838.28,1.48,0.5,"event ORDER_WIN +3, high SUE +2.0 (risk-on), AR FLAGGED -4, thin delivery -0.5",True,WATCH
-MOL,Meghmani Organics Ltd,RESTRUCTURING,1630.92,2.04,0.5,"event RESTRUCTURING -2, high SUE +2.0 (risk-on)",False,WATCH
-CARYSIL,Carysil Ltd,RESTRUCTURING,3359.36,1.85,0.5,"event RESTRUCTURING -2, high SUE +2.0 (risk-on)",False,WATCH
-IMFA,Indian Metals & Ferro Alloys Ltd,ACQUISITION,6984.9,2.41,0.5,"event ACQUISITION -2, high SUE +2.0 (risk-on)",False,WATCH
-SMARTWORKS,Smartworks Coworking Spaces Ltd,ACQUISITION,6214.9,4.05,0.5,"event ACQUISITION -2, high SUE +2.0 (risk-on)",False,WATCH
-ICRA,ICRA Ltd,ACQUISITION,4577.89,1.97,0.5,"event ACQUISITION -2, high SUE +2.0 (risk-on)",False,WATCH
-LUMAXTECH,Lumax Auto Technologies Ltd,ACQUISITION,13450.92,3.37,0.5,"event ACQUISITION -2, high SUE +2.0 (risk-on)",False,WATCH
-MMFL,MM Forgings Ltd,RESTRUCTURING,2985.98,2.7,0.5,"event RESTRUCTURING -2, high SUE +2.0 (risk-on)",False,WATCH
+SOLEX,Solex Energy Ltd,ORDER_WIN,781.13,-0.61,1.0,"event ORDER_WIN +3, negative surprise -1.0, micro-cap -1.0",False,WATCH
+SILVERTUC,Silver Touch Technologies Ltd,ORDER_WIN,2063.07,2.86,1.0,"event ORDER_WIN +3, high SUE +2.0 (risk-on), AR FLAGGED -4",True,WATCH
+HARIOMPIPE,Hariom Pipe Industries Ltd,CAPITAL_RAISE,1138.2,-0.95,1.0,"event CAPITAL_RAISE +2, negative surprise -1.0",False,WATCH
 SOMANYCERA,Somany Ceramics Ltd,RESTRUCTURING,2269.03,1.95,0.5,"event RESTRUCTURING -2, high SUE +2.0 (risk-on)",False,WATCH
-TIIL,Technocraft Industries (India) Ltd,ACQUISITION,7242.15,2.79,0.5,"event ACQUISITION -2, high SUE +2.0 (risk-on)",False,WATCH
-TINNARUBR,Tinna Rubber and Infrastructure Ltd,ACQUISITION,1913.09,1.6,0.5,"event ACQUISITION -2, high SUE +2.0 (risk-on)",False,WATCH
-CENTUM,Centum Electronics Ltd,RESTRUCTURING,6384.91,2.43,0.5,"event RESTRUCTURING -2, high SUE +2.0 (risk-on)",False,WATCH
 SAREGAMA,Saregama India Ltd,ACQUISITION,9816.81,1.58,0.5,"event ACQUISITION -2, high SUE +2.0 (risk-on)",False,WATCH
+SMARTWORKS,Smartworks Coworking Spaces Ltd,ACQUISITION,6214.9,4.05,0.5,"event ACQUISITION -2, high SUE +2.0 (risk-on)",False,WATCH
+MMFL,MM Forgings Ltd,RESTRUCTURING,2985.98,2.7,0.5,"event RESTRUCTURING -2, high SUE +2.0 (risk-on)",False,WATCH
+LUMAXTECH,Lumax Auto Technologies Ltd,ACQUISITION,13450.92,3.37,0.5,"event ACQUISITION -2, high SUE +2.0 (risk-on)",False,WATCH
+CENTUM,Centum Electronics Ltd,RESTRUCTURING,6384.91,2.43,0.5,"event RESTRUCTURING -2, high SUE +2.0 (risk-on)",False,WATCH
+CARYSIL,Carysil Ltd,RESTRUCTURING,3359.36,1.85,0.5,"event RESTRUCTURING -2, high SUE +2.0 (risk-on)",False,WATCH
+MOL,Meghmani Organics Ltd,RESTRUCTURING,1630.92,2.04,0.5,"event RESTRUCTURING -2, high SUE +2.0 (risk-on)",False,WATCH
+IMFA,Indian Metals & Ferro Alloys Ltd,ACQUISITION,6984.9,2.41,0.5,"event ACQUISITION -2, high SUE +2.0 (risk-on)",False,WATCH
+TIIL,Technocraft Industries (India) Ltd,ACQUISITION,7242.15,2.79,0.5,"event ACQUISITION -2, high SUE +2.0 (risk-on)",False,WATCH
+ICRA,ICRA Ltd,ACQUISITION,4577.89,1.97,0.5,"event ACQUISITION -2, high SUE +2.0 (risk-on)",False,WATCH
+TINNARUBR,Tinna Rubber and Infrastructure Ltd,ACQUISITION,1913.09,1.6,0.5,"event ACQUISITION -2, high SUE +2.0 (risk-on)",False,WATCH
 MOREPENLAB,Morepen Laboratories Ltd,ACQUISITION,6389.14,2.15,0.0,"event ACQUISITION -2, high SUE +2.0 (risk-on), thin delivery -0.5",False,AVOID
-MANORAMA,Manorama Industries Ltd,CAPITAL_RAISE,13156.6,2.6,0.0,"event CAPITAL_RAISE +2, high SUE +2.0 (risk-on), AR FLAGGED -4",True,AVOID
-SAMBHV,Sambhv Steel Tubes Ltd,CAPITAL_RAISE,3867.56,2.57,0.0,"event CAPITAL_RAISE +2, high SUE +2.0 (risk-on), AR FLAGGED -4",True,AVOID
 STERTOOLS,Sterling Tools Ltd,ACQUISITION+CAPITAL_RAISE,783.22,-0.5,0.0,"event CAPITAL_RAISE +2, negative surprise -1.0, micro-cap -1.0",False,AVOID
-SENORES,Senores Pharmaceuticals Ltd,CAPITAL_RAISE,6778.17,1.46,0.0,"event CAPITAL_RAISE +2, high SUE +2.0 (risk-on), AR FLAGGED -4",True,AVOID
-PENIND,Pennar Industries Ltd,CAPITAL_RAISE,2454.11,2.82,0.0,"event CAPITAL_RAISE +2, high SUE +2.0 (risk-on), AR FLAGGED -4",True,AVOID
 MEDIASSIST,Medi Assist Healthcare Services Ltd,ACQUISITION,2453.21,0.25,0.0,"event ACQUISITION -2, AR CLEAN +1, filing MODERATE +0",True,AVOID
 SIS,SIS Ltd,ACQUISITION,5986.06,0.05,-1.5,event ACQUISITION -2,False,AVOID
 ACI,Archean Chemical Industries Ltd,ACQUISITION,5958.72,-0.39,-1.5,event ACQUISITION -2,False,AVOID
